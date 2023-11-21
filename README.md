@@ -1,4 +1,5 @@
 Walmart Sales Data Analysis
+
 About:
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
 Purposes Of The Project:
@@ -21,6 +22,7 @@ Business Questions To Answer
 Generic Question
 1. How many unique cities does the data have?
 2. In which city is each branch?
+   
 Product
 1. How many unique product lines does the data have?
 2. What is the most common payment method?
@@ -34,6 +36,7 @@ Product
 10. Which branch sold more products than average product sold?
 11. What is the most common product line by gender?
 12. What is the average rating of each product line?
+    
 Customer
 1. How many unique customer types does the data have?
 2. How many unique payment methods does the data have?
@@ -45,6 +48,7 @@ Customer
 8. Which time of the day do customers give most ratings per branch?
 9. Which day fo the week has the best avg ratings?
 10. Which day of the week has the best average ratings per branch?
+    
 Sales
 1. Number of sales made in each time of the day per weekday
 2. Which of the customer types brings the most revenue?
