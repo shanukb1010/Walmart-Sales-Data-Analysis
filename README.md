@@ -1,11 +1,11 @@
-Walmart Sales Data Analysis
+## Walmart Sales Data Analysis
 
-About:
+## About
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
 Purposes Of The Project:
 The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
 
-About Data:
+## About Data:
 The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
 
 Analysis List:
@@ -18,13 +18,13 @@ This analysis aims to answer the question of the sales trends of product. The re
 Customer Analysis
 This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
 
-Business Questions To Answer
+## Business Questions To Answer
 
-Generic Question
+## Generic Question
 1. How many unique cities does the data have?
 2. In which city is each branch?
    
-Product
+## Product
 1. How many unique product lines does the data have?
 2. What is the most common payment method?
 3. What is the most selling product line?
@@ -38,7 +38,7 @@ Product
 11. What is the most common product line by gender?
 12. What is the average rating of each product line?
     
-Customer
+## Customer
 1. How many unique customer types does the data have?
 2. How many unique payment methods does the data have?
 3. What is the most common customer type?
@@ -50,7 +50,7 @@ Customer
 9. Which day fo the week has the best avg ratings?
 10. Which day of the week has the best average ratings per branch?
     
-Sales
+## Sales
 1. Number of sales made in each time of the day per weekday
 2. Which of the customer types brings the most revenue?
 3. Which city has the largest tax percent/ VAT (Value Added Tax)?
